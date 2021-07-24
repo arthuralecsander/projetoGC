@@ -19,7 +19,7 @@ Instale as dependencias do composer
 
     composer install
 
-Em seguida utilize o comando
+Execute o projeto:
 
     php bin/console app:gerar-csv
 
