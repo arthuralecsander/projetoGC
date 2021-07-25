@@ -9,13 +9,18 @@ Para rodar e necessario ter o symfony e o composer
 
 Faca o clone do repositorio utilizando o comando a seguir
 
-	git clone
+	git clone https://github.com/arthuralecsander/projetoGC.git
+
+Em seguida
+
+	cd projetoGC
 
 Instale as dependencias do composer
 
     composer install
 
-Em seguida utilize o comando
+Execute o projeto:
 
     php bin/console app:gerar-csv
 
+O CSV estara no diretorio /src/Command/
