@@ -5,6 +5,7 @@ Projeto desenvolvido por Arthur Alecsander, destinada ao um Teste de Conheciment
 # Como rodar
 
 Projeto desenvolvido com php.
+
 Para rodar e necessario ter o symfony e o composer.
 
 Faca o clone do repositorio utilizando o comando a seguir
